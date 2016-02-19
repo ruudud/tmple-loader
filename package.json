@@ -1,0 +1,22 @@
+{
+  "name": "tmple-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for tmple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "template",
+    "tmple"
+  ],
+  "contributors": [
+      {
+          "name": "Pål Ruud",
+          "url": "https://ruudud.github.io"
+      }
+  ],
+  "license": "MIT"
+}
